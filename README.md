@@ -1,3 +1,7 @@
+### Who am I?
+
+See [my "About Me" page](https://yangby-cryptape.github.io/about).
+
 ### My Current Status
 
 - Recovering from a surgery since June 2022.
@@ -7,6 +11,8 @@
 ### My Coding Activity
 
 [![My Coding Activity Badge][My Coding Activity Badge]][My Wakatime Profile]
+
+_Why spend so many hours every day? Because I use the time-counter plugin for terminal, and I live in the terminal._
 
 <details><summary> :point_right: Details of My Coding Activity.</summary><br />
 
